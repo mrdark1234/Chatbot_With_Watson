@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+		<title>Flask Template</title>
+		<link href="{{url_('static', filename = 'style.css')}}" rel="stylesheet">
+</head>
+<body>
+		<h1>Hello, training i am a sample html + Flask app!</h1>
+</body>
+</html>
